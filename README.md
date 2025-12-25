@@ -28,6 +28,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+'''
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -141,7 +142,7 @@ temple.html
 </body>
 
 </html>
-
+'''
 ## OUTPUT
 <img width="1908" height="970" alt="Screenshot 2025-09-23 104905" src="https://github.com/user-attachments/assets/687306dd-4529-4630-b99d-068638576306" />
 <img width="1920" height="633" alt="Screenshot 2025-09-23 104930" src="https://github.com/user-attachments/assets/64bf53b8-37b2-45c4-9a55-41e8600c8be2" />
